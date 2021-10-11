@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+    background-image:url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    line-height: 1.3em;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    line-height: 1.5em;
+}
+.InformacionPersonal{
+    margin: 2em;
+    padding: 2em;
+    border: 2px red solid;
+    background: #f2f2f2;
+    font-size: 1.2em;
+    line-height: 1.1em;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.TextCenter {
+    text-align: center;
+}
